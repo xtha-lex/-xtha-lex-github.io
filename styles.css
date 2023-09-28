@@ -1,0 +1,41 @@
+body
+{
+    background-color:darkslategrey;
+    background-attachment:local;
+    background-repeat:no-repeat;
+}
+h1
+{
+    color:white;
+    text-align:center;
+}
+h2
+{
+color:aliceblue;
+text-align:center;
+}
+h3
+{
+color:ghostwhite;
+text-align:center
+}
+h4
+{
+color:ghostwhite;
+text-align:center
+}h5
+{
+color:ghostwhite;
+text-align:center
+}
+h6
+{
+color:ghostwhite;
+text-align:center
+}
+p{
+    color:aliceblue;
+    text-align:center;
+    font-family :verdana;
+    font-size:25px;
+}
